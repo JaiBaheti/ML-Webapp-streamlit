@@ -1,4 +1,4 @@
-# Spam-classification-app
+# Spam-model-evaluation-app
 ## Getting Started
 
 Simple Spam Classification app with streamlit, this app lets to tweak the hyperparameter and see their impact on the model, and can also build model based on different model parameters 
